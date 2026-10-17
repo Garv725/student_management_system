@@ -1,4 +1,4 @@
-**🎓 Student Management System**
+###🎓 Student Management System
 
 A beginner-friendly Python project that demonstrates a simple role-based student management system using lists, dictionaries, conditional statements, and user input.
 
